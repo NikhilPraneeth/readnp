@@ -1,1 +1,2 @@
 # readnp
+echo "christus Inviticus"
