@@ -1,2 +1,2 @@
 # readnp
-echo "christus Inviticus"
+"christus Inviticus"
